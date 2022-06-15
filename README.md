@@ -6,3 +6,10 @@ This Python Flask Notes app was made to study.
 ```
 pip install -r requirements.txt
 ```
+
+run the server 
+
+```
+$ python main.py
+
+parei em 1:49
