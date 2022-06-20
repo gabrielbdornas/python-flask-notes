@@ -12,4 +12,4 @@ run the server
 ```
 $ python main.py
 
-parei em 1:49
+parei em 2:05
